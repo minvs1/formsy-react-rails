@@ -10,5 +10,6 @@
 *.bundle
 *.so
 *.o
+*.gem
 *.a
 mkmf.log
